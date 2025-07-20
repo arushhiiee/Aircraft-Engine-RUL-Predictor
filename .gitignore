@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+.venv/
+
+# Large model files
+# We don't upload the trained models directly.
+# Instead, the README will instruct users to run the prepare_models.py script.
+models/
+
+# Dataset files
+# It's good practice not to upload large datasets directly.
+*.txt
+
+# IDE and OS specific files
+.vscode/
+.idea/
