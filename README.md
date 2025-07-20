@@ -20,7 +20,7 @@ Here is a demonstration of the interactive web application.
 
 **2. Prediction and Explanation:** The application returns the predicted RUL and a SHAP waterfall plot that explains which features had the most impact on the prediction.
 
-!<img width="1267" height="931" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/a963e12a-ba70-471c-b55b-0ad4388ca667" />
+<img width="1267" height="931" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/a963e12a-ba70-471c-b55b-0ad4388ca667" />
 
 
 ## Project Structure
